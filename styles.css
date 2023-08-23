@@ -76,6 +76,7 @@ a{
     display:flex;
     flex-direction: column;
     align-items:center;
+    
 }
 .slide-bar{
     width: 245px;
